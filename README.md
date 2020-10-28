@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
  
-   <a href="https://www.linkedin.com/in/can-argin-9b50221a7/">Linkedln</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/can-argin-9b50221a7/">Linkedln</a>
 <!--
 **nigranac/Nigranac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
