@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:can.argin.16@gmail.com">
 </a>
  <a href="https://can16.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://can16.medium.com/">
+    <img src="https://img.shields.io/badge/%20-medium-black" target="_blank" alt="https://can16.medium.com/">
 </a>
  </div>
  
