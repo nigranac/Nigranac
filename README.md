@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 📫 How to reach me:
 <div>
  <a href="https://www.linkedin.com/in/can-argin-9b50221a7/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/can-argin-9b50221a7/">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/can-argin-9b50221a7/" width=60px>
 </a>
  <a href="mailto:can.argin.16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:can.argin.16@gmail.com">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:can.argin.16@gmail.com" width=45px>
 </a>
  <a href="https://can16.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" target="_blank" alt="https://can16.medium.com/">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://can16.medium.com/" width=60px>
 </a>
  </div>
  
