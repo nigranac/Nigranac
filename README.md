@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://can16.medium.com/" width=60px>
 </a>
  </div>
- 
+
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigranac&color=yellowgreen&style=flat-square" alt="gantman" /> </p>
 
 <!--
