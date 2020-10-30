@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://can16.medium.com/" width=60px>
 </a>
  </div>
- 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=gantman" alt="gantman" /> </p>
 <!--
 **nigranac/Nigranac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
