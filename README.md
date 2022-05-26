@@ -1,6 +1,5 @@
 # Hi there 👋
-<a href="https://app.daily.dev/nigranac"><img src="https://api.daily.dev/devcards/d9ee6a14b9ed47c09801305da9fb353b.png?r=hnc" width="200" alt="Can's Dev Card"/></a>
-
+<a href="https://app.daily.dev/nigranac"><img src="https://github.com/nigranac/Nigranac/blob/main/devcard.svg" width="200" alt="Can's Dev Card"/></a>
 
 <!-- <img src="https://github.com/nigranac/Nigranac/blob/main/react-native.gif" alt="react-native" width="100" height="100" align="right"> -->
 
