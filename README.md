@@ -1,5 +1,5 @@
 # Hi there 👋
-<a href="https://app.daily.dev/nigranac"><img src="https://github.com/nigranac/Nigranac/blob/main/devcard.svg" width="200" alt="Can's Dev Card"/></a>
+
 
 <!-- <img src="https://github.com/nigranac/Nigranac/blob/main/react-native.gif" alt="react-native" width="100" height="100" align="right"> -->
 
@@ -10,8 +10,11 @@
  my speciality is front-end developing. 
 </br>
 </br>
+<img src="https://github-readme-stats.vercel.app/api?username=nigranac&show_icons=true&theme=tokyonight" align="right"  width="68%">
+<a align="left" href="https://app.daily.dev/nigranac"><img src="https://github.com/nigranac/Nigranac/blob/main/devcard.svg" width="240" alt="Can's Dev Card"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nigranac&show_icons=true&theme=tokyonight" align="right"  width="53%">
+
+
 
 
 
@@ -21,7 +24,9 @@
 [<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-64.png"/>](mailto:can.argin.16@gmail.com)
 [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/social-micon/512/medium-64.png"/>](https://can16.medium.com/)
 [<img target="_blank" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-64.png"/>](https://www.linkedin.com/in/can-argin/)
-
+</br>
+</br>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigranac&color=yellowgreen&style=flat-square" alt="gantman" width=120px /> </p>
 <!-- <div>
  <a href="https://www.linkedin.com/in/can-argin-9b50221a7/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/can-argin-9b50221a7/" width=80px>
@@ -35,8 +40,7 @@
  </div> -->
 </br>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigranac&color=yellowgreen&style=flat-square" alt="gantman" width=120px /> </p>
- 
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigranac&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
