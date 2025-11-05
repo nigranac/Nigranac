@@ -10,12 +10,6 @@
  my speciality is front-end developing. 
 </br>
 </br>
-<img src="https://github-readme-stats.vercel.app/api?username=nigranac&show_icons=true&theme=tokyonight" align="right"  width="68%">
-<a align="left" href="https://app.daily.dev/nigranac"><img src="https://github.com/nigranac/Nigranac/blob/main/devcard.svg" width="240" alt="Can's Dev Card"/></a>
-
-
-
-
 
 
 ### 📫 How to reach me:
